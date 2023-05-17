@@ -1,27 +1,12 @@
-General
+# <img src="https://iconape.com/wp-content/files/hk/370521/svg/airbnb-logo-icon-png-svg.png" width=20> AirBnB Clone - Web Static <img src="https://iconape.com/wp-content/files/hk/370521/svg/airbnb-logo-icon-png-svg.png" width=20>
 
-        What is HTML
+`HTML5` `CSS3` `Front-End Development`
 
-        How to create an HTML page
+## Web Static
+<p>This project is a front-end development exercise to build a clone of the Airbnb website using HTML and CSS.</p>
+<p>The purpose of this project is to improve my skills in front-end development by building a complex web application from scratch.</p>
 
-        What is a markup language
-
-        What is the DOM
-
-        What is an element / tag
-
-        What is an attribute
-
-        How does the browser load a webpage
-
-        What is CSS
-
-        How to add style to an element
-
-        What is a class
-
-        What is a selector
-
-        How to compute CSS Specificity Value
-
-        What are Box properties in CSS
+## Conclusion
+<p>Building a clone of a complex website like Airbnb requires a good understanding of HTML and CSS.</p>
+<p>This project will help me improve my skills in front-end development and give me practical experience in building a real-world web application.</p>
+<p>Every HTML file is W3C compliant and validated with the W3C-Validator.</p>
